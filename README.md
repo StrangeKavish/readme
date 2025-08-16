@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/strangekavish" target="blank"><img src="https://img.shields.io/twitter/follow/strangekavish?logo=twitter&style=for-the-badge" alt="strangekavish" /></a> </p>
 
-- 🌱 I’m currently learning **Coding (Java,C++,C#,Python)**
+- 🌱 I am a Full Stack Developer in Python**
+
+- $ Curiosity in AI/DS/ML, Automation, Cyber Security and Cloud Computing**
+
+- Current Project ---> None
 
 - 📫 How to reach me **skavish709@gmail.com**
 
